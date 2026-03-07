@@ -5,6 +5,14 @@ body{
     background-position: center;/*centra la imagen*/
     background-repeat: no-repeat;/*Evita que el fondo se repita si es muy pequeño*/
     background-attachment: fixed;/*Evita que el fondo se desplace con el contenido*/
+    
+}
+
+.battle h1{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 500px; ;
+
 }
 
 .Primer_div{
@@ -14,6 +22,7 @@ body{
     border: 1px solid rgb(206, 203, 203);
     border-radius: 8px;
     padding: 20px;/*Espacio entre componentes(en este caso 20pixeles)*/
+    margin-right: 200px;;
 }
 
 .Superhero_Battle{
@@ -21,6 +30,7 @@ body{
     height: 400px;
     overflow: hidden;
     margin-top: 50px;
+    margin-right: 300px;
     
 
     color: white;
